@@ -40,3 +40,8 @@ Designed around the needs of local customers, the experience includes wilaya-bas
 ```bash
 npm install
 npm run dev
+
+Open http://localhost:3000 in your browser.
+
+## Author
+Created by ISLEM TOUATI
